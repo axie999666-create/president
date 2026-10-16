@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://president.republic-of-axie.org/sitemap.xml
